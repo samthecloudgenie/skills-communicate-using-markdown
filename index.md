@@ -4,7 +4,7 @@
 
 
 
-###### I added two headers to the markdown file ######
+###### A H6 header would look like this ######
 
  ![Octocat](https://octodex.github.com/images/minion.png)
 
@@ -17,3 +17,6 @@ Initialized empty Git repository in /Projects/mobile-app-repository/.git/
 let message = "Hello, world!";
 console.log(mesage)
 ```
+- [x] Created Headers using markdown
+- [x] Included an image in markdown file
+- [x] Added a task list  
