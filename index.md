@@ -7,3 +7,13 @@
 ###### I added two headers to the markdown file ######
 
  ![Octocat](https://octodex.github.com/images/minion.png)
+
+ ```
+$ git init
+Initialized empty Git repository in /Projects/mobile-app-repository/.git/
+```
+
+``` javascript
+let message = "Hello, world!";
+console.log(mesage)
+```
