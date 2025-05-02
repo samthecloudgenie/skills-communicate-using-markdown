@@ -5,3 +5,5 @@
 
 
 ###### I added two headers to the markdown file ######
+
+![Github Mark] (https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
